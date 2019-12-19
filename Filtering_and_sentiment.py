@@ -14,22 +14,17 @@ from string import digits
 import re
 
 
-reddit = praw.Reddit(client_id='73IApaJarJRRVA',client_secret='QIET4TRTvxlLWDNFfobmDD7oAfM',user_agent='PD sentiment',username='hll4ce',password='Snsh11nE')
+##########
+#import data from csv
+##########
+data = pd.read_csv("parkinsons_submissions.csv")
+data = pd.DataFrame(data)
+body_text = data['body']
+body_text = list(body_text)
+body_text = [missing for missing in body_text if str(missing) != 'nan']
 
 
-headlines = set()
 
-for submission in reddit.subreddit('Parkinsons').new(limit=None):
-    headlines.add(submission.selftext)
-    display.clear_output()
-    print(len(headlines))
-
-
-
-#can just import the dataset here instead of creating it
-
-
-x = list(headlines)
 
 #remove punctuation
 for index,item in enumerate(x):
