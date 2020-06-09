@@ -8,7 +8,7 @@ Blogs, social media, news outlets, online patient forums, and other sources of o
     - Hampton Leonard, NIA, NIH
     - Manuela Tan
     - Prabhjyot Saini
-    - Van Truong
+    - Van Truong, NCI, NIH & Johns Hopkins University
     - Irem Sarihan
     - Fanny Casse
 
