@@ -9,7 +9,7 @@ Blogs, social media, news outlets, online patient forums, and other sources of o
     - Manuela Tan
     - Prabhjyot Saini
     - Van Truong, NCI, NIH & Johns Hopkins University
-    - Irem Sarihan
+    - Irem Sarihan, Cleveland Clinic
     - Fanny Casse
 
 ### Goals
