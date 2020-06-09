@@ -63,7 +63,7 @@ Blogs, social media, news outlets, online patient forums, and other sources of o
 
 #### What do people talk about on the Parkinson's Disease subreddit?
 
-![]()
+![](/images/reddit_wordcloud.png)
 
 
 
