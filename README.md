@@ -34,6 +34,37 @@ Blogs, social media, news outlets, online patient forums, and other sources of o
   - Van
   - Prabhjyot
   
-  
+### Deliverables
+
+- Pipeline for text processing
+- Dashboard
  
+ 
+## Text Processing Pipeline
+
+- takes an input of a dataframe with a column of text to be processed
+- outputs frequency counts of words, trigrams, td idf matrix
+- option of sentiment analysis?
+ 
+## Parkinson's Disease Sentiment in Social Media
+
+### Reddit
+
+- (make this part better)
+- scraped pd subreddit for everything after 01-01-2012 to now
+- 3033 posts
+- 14817 comments
+
+- filter raw dataframe based on a number of things, drugs, clinical trials, etc
+- run through pipeline
+- sentiment analysis and compare
+
+
+
+#### What do people talk about on the Parkinson's Disease subreddit?
+
+![]()
+
+
+
 
