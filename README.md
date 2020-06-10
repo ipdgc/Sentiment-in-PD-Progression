@@ -68,3 +68,11 @@ Blogs, social media, news outlets, online patient forums, and other sources of o
 
 
 
+
+
+[Dashboard](https://datastudio.google.com/s/s6xxbbc4qOw) for viewing different metrics taken from analyzed media text data
+
+
+
+
+
